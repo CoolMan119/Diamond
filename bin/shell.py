@@ -26,7 +26,7 @@ while bRunning:
     # elif sCommand == "exit":
     #     bRunning = False # End the shell process
     # else:
-        print("Invaild Command!")
+    print("Invaild Command!")
 
 
 # The shell has ended, shutdown the process.
